@@ -5,7 +5,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ; <----------- Rhys Williams 2014 ----------->
 
-; <----------- Special Charicters ----------->
+; <----------- Special Characters ----------->
 ;auto replace "deg"
 ::deg::°
 
