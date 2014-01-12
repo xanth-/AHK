@@ -26,7 +26,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;Copyright symbol
 ;auto replace "{c}" 
-::{c]}::©
+::{c}::©
 
 ;Trademark symbol
 ;auto replace "{tm}" 
