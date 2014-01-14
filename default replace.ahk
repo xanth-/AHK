@@ -58,3 +58,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;replace "Ty"
 ::Ty::Thank you
+
+;replace "kk"
+::kk::ok, sounds good
+
+;replace "i"
+::i::I
