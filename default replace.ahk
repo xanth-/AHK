@@ -50,6 +50,9 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;auto replace "msg"
 ::msg::message
 
+;auto replace "w8"
+::w8::wait
+
 ;auto replace "plz"
 ::plz::please
 
