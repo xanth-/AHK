@@ -42,3 +42,14 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;auto replace "tfce"
 ::tfce::◔◡◉
+
+;auto replace "aface" - angry
+::afce::⎛◣_◢⎞
+
+; <----------- emoj ----------->
+
+;auto replace "upoo"
+::upoo::💩
+
+;auto replace "uwave"
+::upoo::🌊
