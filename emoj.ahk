@@ -52,4 +52,4 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::upoo::💩
 
 ;auto replace "uwave"
-::upoo::🌊
+::uwave::🌊
