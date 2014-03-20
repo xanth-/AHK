@@ -6,24 +6,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; <----------- Rhys Williams 2014 ----------->
 
 ; <----------- Special Characters ----------->
-;auto replace "deg"
-::deg::°
-
-;auto replace "inf"
-::inf::∞ 
-
-;Multiplication sign
-;auto replace "mul" 
-::mul::×
-
-;Division sign
-;auto replace "devi" 
-::devi::÷
-
-;Therefore sign
-;auto replace "tfore" 
-::tfore::∴
-
 ;Copyright symbol
 ;auto replace "{c}" 
 ::{c}::©
